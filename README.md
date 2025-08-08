@@ -28,7 +28,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Vick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default)
+![Vick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vikram0316&show_icons=true&theme=default)
 
 ---
 
