@@ -3,13 +3,13 @@
 <p align="center">
 <pre>
 ╔════════════════════════════════╗
-║  Vikram (Vikram0316)           ║
-║  Finance UAT Analyst · Python  ║
+║  Vikram Mistry                 ║
+║  Finance UAT Analyst           ║
 ╚════════════════════════════════╝
 </pre>
 </p>
 
-💻 **Finance UAT Analyst** in the Banking & IT industry  
+💻 **Finance UAT Analyst** in the Banking industry having 10+ years of experience  
 🚀 Currently learning **Python** for automation, data analysis & productivity projects  
 📂 Building my portfolio here — one commit at a time  
 🌱 Exploring APIs, Excel automation, and CLI tools  
