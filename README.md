@@ -1,5 +1,14 @@
 # Hi there, I'm Vikram 👋
 
+<p align="center">
+<pre>
+╔════════════════════════════════╗
+║  Vikram (Vikram0316)           ║
+║  Finance UAT Analyst · Python  ║
+╚════════════════════════════════╝
+</pre>
+</p>
+
 💻 **Finance UAT Analyst** in the Banking & IT industry  
 🚀 Currently learning **Python** for automation, data analysis & productivity projects  
 📂 Building my portfolio here — one commit at a time  
