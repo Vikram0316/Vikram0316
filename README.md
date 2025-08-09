@@ -15,8 +15,6 @@
 🌱 Exploring APIs, Excel automation, and CLI tools  
 📍 Based in Mumbai, India  
 
-## Screenshot
-![Expense Tracker CLI Example](Screenshot.png)
 ---
 
 ## 🔧 Tech & Tools
